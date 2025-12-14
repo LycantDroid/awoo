@@ -6207,5 +6207,35 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/feral_bite_upgrade": {
+    "criteria": {
+      "has_eye": "2025-12-14 16:49:52 -0600"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-12-14 16:49:52 -0600"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/poison_upgrade": {
+    "criteria": {
+      "has_eye": "2025-12-14 16:49:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-12-14 16:52:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-12-14 16:49:52 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
