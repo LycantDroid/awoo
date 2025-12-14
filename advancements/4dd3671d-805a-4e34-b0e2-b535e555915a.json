@@ -4340,6 +4340,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-12-12 22:11:32 -0600",
       "minecraft:spider": "2025-12-12 22:11:01 -0600",
+      "minecraft:cave_spider": "2025-12-14 16:40:53 -0600",
       "minecraft:zombie": "2025-12-12 22:11:30 -0600"
     },
     "done": false
@@ -4836,225 +4837,33 @@
     },
     "done": true
   },
-  "littlelogistics:recipes/transportation/seater_car": {
+  "netherexp:nether/overkill": {
     "criteria": {
-      "has_item": "2025-12-12 22:46:21 -0600"
+      "overkill": "2025-12-12 22:37:58 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+      "coded_trigger": "2025-12-12 22:39:12 -0600"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/skyris_bookshelf": {
+  "goety:goety/kill_a_heretic": {
     "criteria": {
-      "has_skyris_planks": "2025-12-12 22:59:48 -0600"
+      "kill_a_warlock": "2025-12-12 22:39:12 -0600"
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/large_console_lever": {
+  "farmersdelight:main/eat_comfort_food": {
     "criteria": {
-      "has_thing": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_gray": {
-    "criteria": {
-      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "mcwbyg:recipes/skyris_stairs": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:50:28 -0600"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
-    "criteria": {
-      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "etched:recipes/decorations/etching_table": {
-    "criteria": {
-      "has_iron": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
-    "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/oil_lantern": {
-    "criteria": {
-      "has_iron": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
-    "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/common/iron_platform": {
-    "criteria": {
-      "has_bars": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/recipe_iron_brush": {
-    "criteria": {
-      "has_item": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sugar_rush": {
-    "criteria": {
-      "all_effects": "2025-12-12 22:57:33 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/icicle_lights": {
-    "criteria": {
-      "has_iron": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/warped_drawers": {
-    "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bubble_blower": {
-    "criteria": {
-      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-12-12 22:40:42 -0600"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/skyris_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
-  "enderio:recipes/food/enderios": {
-    "criteria": {
-      "has_ingredient": "2025-12-12 22:41:01 -0600"
+      "comfort": "2025-12-12 22:39:48 -0600"
     },
     "done": true
   },
   "biomancy:recipes/biomancy/decomposing/blaze_rod": {
     "criteria": {
       "has_blaze_rod": "2025-12-12 22:40:14 -0600"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
-    "criteria": {
-      "has_ingots_iron": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/iron_knife": {
-    "criteria": {
-      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_egg": {
-    "criteria": {
-      "has_wheat": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/candle_lantern": {
-    "criteria": {
-      "has_iron": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "alekiships:recipes/crafting/crafting/anchor": {
-    "criteria": {
-      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/skyris_fence": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-12-12 23:00:18 -0600"
-    },
-    "done": true
-  },
-  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
-    "criteria": {
-      "has_wheat": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/skyris_planks": {
-    "criteria": {
-      "has_log": "2025-12-12 22:50:28 -0600"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_pink": {
-    "criteria": {
-      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "rats:recipes/combat/farmer_hat": {
-    "criteria": {
-      "has_wheat": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_white": {
-    "criteria": {
-      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/coal_generator": {
-    "criteria": {
-      "has_coal_generator": "2025-12-12 22:46:21 -0600"
     },
     "done": true
   },
@@ -5070,21 +4879,297 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+  "rats:recipes/misc/upgrades/elite_energy_upgrade": {
     "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
+      "has_blaze": "2025-12-12 22:40:14 -0600"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/dragon_wing": {
+    "criteria": {
+      "has_rod": "2025-12-12 22:40:14 -0600"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-12-12 22:40:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-12-12 22:40:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-12-12 22:40:14 -0600"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-12-12 22:40:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-12-12 22:40:14 -0600"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-12-12 22:40:15 -0600"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-12-12 22:40:42 -0600"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-12-12 22:40:45 -0600"
+    },
+    "done": true
+  },
+  "enderio:recipes/food/enderios": {
+    "criteria": {
+      "has_ingredient": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_egg": {
+    "criteria": {
+      "has_wheat": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
+    "criteria": {
+      "has_wheat": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/farmer_hat": {
+    "criteria": {
+      "has_wheat": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "incubation:recipes/decorations/hay_nest": {
+    "criteria": {
+      "has_wheat": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/hardtack": {
+    "criteria": {
+      "has_wheat": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_cage": {
+    "criteria": {
+      "has_wheat": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_wheat": {
+    "criteria": {
+      "has_wheat": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/wheat_extra": {
+    "criteria": {
+      "has_material": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/beer_from_water": {
+    "criteria": {
+      "has_wheat": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/cooking/dandelion_beer_bottle": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-12 22:41:01 -0600"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-12-12 22:45:10 -0600"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/seater_car": {
+    "criteria": {
+      "has_item": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/large_console_lever": {
+    "criteria": {
+      "has_thing": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/etching_table": {
+    "criteria": {
+      "has_iron": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/oil_lantern": {
+    "criteria": {
+      "has_iron": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/iron_platform": {
+    "criteria": {
+      "has_bars": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_iron_brush": {
+    "criteria": {
+      "has_item": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/icicle_lights": {
+    "criteria": {
+      "has_iron": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bubble_blower": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/candle_lantern": {
+    "criteria": {
+      "has_iron": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/anchor": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/coal_generator": {
+    "criteria": {
+      "has_coal_generator": "2025-12-12 22:46:21 -0600"
     },
     "done": true
   },
   "minecolonies:recipes/misc/chainmailchestplate": {
     "criteria": {
       "has_iron": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/elite_energy_upgrade": {
-    "criteria": {
-      "has_blaze": "2025-12-12 22:40:14 -0600"
     },
     "done": true
   },
@@ -5142,33 +5227,15 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/misc/yellow_dye_from_bwg_tag": {
-    "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2025-12-12 22:52:47 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
     },
     "done": true
   },
-  "supplementaries:recipes/daub": {
-    "criteria": {
-      "supplementaries:straw": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_wood": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/dragon_wing": {
-    "criteria": {
-      "has_rod": "2025-12-12 22:40:14 -0600"
     },
     "done": true
   },
@@ -5196,12 +5263,6 @@
     },
     "done": true
   },
-  "arsdelight:recipes/misc/source_berry_crate": {
-    "criteria": {
-      "has_sourceberry_bush": "2025-12-12 22:52:34 -0600"
-    },
-    "done": true
-  },
   "createbigcannons:recipes/misc/shot_balls": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
@@ -5220,27 +5281,9 @@
     },
     "done": true
   },
-  "convenientcurioscontainer:recipes/curios_container": {
-    "criteria": {
-      "has_stone": "2025-12-12 22:58:36 -0600"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/red_string_container": {
-    "criteria": {
-      "has_base_block": "2025-12-12 22:58:36 -0600"
-    },
-    "done": true
-  },
-  "incubation:recipes/decorations/hay_nest": {
-    "criteria": {
-      "has_wheat": "2025-12-12 22:41:01 -0600"
     },
     "done": true
   },
@@ -5286,24 +5329,6 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/oak_drawers": {
-    "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/skyris_wood": {
-    "criteria": {
-      "has_log": "2025-12-12 22:50:28 -0600"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/tiki_torches": {
-    "criteria": {
-      "has_wood": "2025-12-12 22:59:58 -0600"
-    },
-    "done": true
-  },
   "createbigcannons:recipes/misc/solid_shot": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
@@ -5322,39 +5347,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/building_blocks/ars_nouveau/sign_post_archwood": {
-    "criteria": {
-      "has_item": "2025-12-12 22:58:19 -0600"
-    },
-    "done": true
-  },
-  "vampiresdelight:recipes/food/hardtack": {
-    "criteria": {
-      "has_wheat": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/biomeswevegone/sign_post_skyris": {
-    "criteria": {
-      "has_item": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-12-12 22:40:15 -0600"
     },
     "done": true
   },
@@ -5376,18 +5377,6 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
-    "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/birch_drawers": {
-    "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/letter_button": {
     "criteria": {
       "has_thing": "2025-12-12 22:46:21 -0600"
@@ -5400,12 +5389,6 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
-    "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
-    },
-    "done": true
-  },
   "rats:recipes/building_blocks/trash_can": {
     "criteria": {
       "has_ingot": "2025-12-12 22:46:21 -0600"
@@ -5415,24 +5398,6 @@
   "infinitybuttons:recipe/redstone/iron_large_button": {
     "criteria": {
       "has_thing": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/skyris_crafting_table": {
-    "criteria": {
-      "has_skyris_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
-  "rats:recipes/building_blocks/rat_cage": {
-    "criteria": {
-      "has_wheat": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/cockroach_wing_fragment": {
-    "criteria": {
-      "has_cockroach_wing_fragment": "2025-12-12 23:02:42 -0600"
     },
     "done": true
   },
@@ -5466,48 +5431,6 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/thatch": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_wheat": {
-    "criteria": {
-      "has_wheat": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
-  "mcwbyg:recipes/skyris_furnitures": {
-    "criteria": {
-      "has_wood": "2025-12-12 22:50:28 -0600"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/lantern": {
-    "criteria": {
-      "has_wood": "2025-12-12 22:59:58 -0600"
-    },
-    "done": true
-  },
-  "littlelogistics:recipes/transportation/barge": {
-    "criteria": {
-      "has_item": "2025-12-12 22:58:36 -0600"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/skyris_stairs": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
-    "criteria": {
-      "has_item": "2025-12-12 22:40:14 -0600"
-    },
-    "done": true
-  },
   "occultism:recipes/combat/crafting/butcher_knife": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
@@ -5526,12 +5449,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-12-12 22:40:14 -0600"
-    },
-    "done": true
-  },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-12-12 22:46:21 -0600"
@@ -5541,12 +5458,6 @@
   "biomancy:recipes/biomancy/decomposing/iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
-    "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
     },
     "done": true
   },
@@ -5562,12 +5473,6 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/skyris_door": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
   "minecolonies:recipes/misc/chainmailleggings": {
     "criteria": {
       "has_iron": "2025-12-12 22:46:21 -0600"
@@ -5577,12 +5482,6 @@
   "infinitybuttons:recipe/redstone/large_console_button": {
     "criteria": {
       "has_thing": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-12-12 22:39:48 -0600"
     },
     "done": true
   },
@@ -5622,12 +5521,6 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/skyris_slab": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/iron_bridge": {
     "criteria": {
       "has_planks": "2025-12-12 22:46:21 -0600"
@@ -5646,39 +5539,9 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/skyris_roofs": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:50:28 -0600"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/bridge_torch": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:58 -0600"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "mcwbyg:recipes/skyris_planks_roofs": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-12-12 23:00:18 -0600"
     },
     "done": true
   },
@@ -5697,12 +5560,6 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
-    "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
     },
     "done": true
   },
@@ -5772,18 +5629,6 @@
     },
     "done": true
   },
-  "mcwlights:recipes/paper_lamp": {
-    "criteria": {
-      "has_wood": "2025-12-12 22:59:58 -0600"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-12-12 22:39:12 -0600"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/iron_button": {
     "criteria": {
       "has_thing": "2025-12-12 22:46:21 -0600"
@@ -5814,18 +5659,6 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/skyris_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
-  "mcwbyg:recipes/skyris_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:50:28 -0600"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/console_button": {
     "criteria": {
       "has_thing": "2025-12-12 22:46:21 -0600"
@@ -5844,27 +5677,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-12-12 22:40:14 -0600"
-    },
-    "done": true
-  },
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/skyris_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
-  "minecolonies:recipes/misc/supplycampdeployer": {
-    "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
     },
     "done": true
   },
@@ -5886,18 +5701,6 @@
     },
     "done": true
   },
-  "totw_modded:regular_tower": {
-    "criteria": {
-      "regular": "2025-12-12 22:45:10 -0600"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/skyris_sign": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
   "constructionwand:recipes/tools/iron_wand": {
     "criteria": {
       "has_item": "2025-12-12 22:46:21 -0600"
@@ -5910,12 +5713,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-12-12 22:57:55 -0600"
-    },
-    "done": true
-  },
   "immersive_machinery:misc/machinery": {
     "criteria": {
       "has_item": "2025-12-12 22:46:21 -0600"
@@ -5925,12 +5722,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
-    "criteria": {
-      "has_chest": "2025-12-12 22:58:36 -0600"
     },
     "done": true
   },
@@ -5964,12 +5755,6 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/skyris_button": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
@@ -5982,39 +5767,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
-  "goety:goety/kill_a_heretic": {
-    "criteria": {
-      "kill_a_warlock": "2025-12-12 22:39:12 -0600"
-    },
-    "done": true
-  },
   "fairylights:recipes/fairylights/garland": {
     "criteria": {
       "has_iron": "2025-12-12 22:46:21 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
   "mighty_mail:recipes/decorations/post_box": {
     "criteria": {
       "has_ingots": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "arsdelight:recipes/food/source_berry_cookie": {
-    "criteria": {
-      "has_sourceberry_bush": "2025-12-12 22:52:34 -0600"
     },
     "done": true
   },
@@ -6027,12 +5788,6 @@
   "vampirism:recipes/decorations/vampire/blood_container": {
     "criteria": {
       "has_iron": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/wheat_extra": {
-    "criteria": {
-      "has_material": "2025-12-12 22:41:01 -0600"
     },
     "done": true
   },
@@ -6066,21 +5821,9 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/skyris_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
-    "criteria": {
-      "has_vanilla_chest": "2025-12-12 22:58:36 -0600"
     },
     "done": true
   },
@@ -6096,21 +5839,9 @@
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/archeologist_upgrade": {
-    "criteria": {
-      "has_pick": "2025-12-12 23:00:18 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/skyris_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
     },
     "done": true
   },
@@ -6138,12 +5869,6 @@
     },
     "done": true
   },
-  "brewinandchewin:recipes/fermenting/beer_from_water": {
-    "criteria": {
-      "has_wheat": "2025-12-12 22:41:01 -0600"
-    },
-    "done": true
-  },
   "fairylights:recipes/fairylights/moon_light": {
     "criteria": {
       "has_iron": "2025-12-12 22:46:21 -0600"
@@ -6162,12 +5887,6 @@
     },
     "done": true
   },
-  "mcwbyg:recipes/rope_skyris_bridge": {
-    "criteria": {
-      "has_planks": "2025-12-12 22:59:48 -0600"
-    },
-    "done": true
-  },
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2025-12-12 22:46:21 -0600"
@@ -6180,21 +5899,9 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/blaze_block": {
-    "criteria": {
-      "has_item": "2025-12-12 22:40:14 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce": {
-    "criteria": {
-      "has_torch": "2025-12-12 22:59:58 -0600"
     },
     "done": true
   },
@@ -6207,12 +5914,6 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "vampiresdelight:recipes/cooking/dandelion_beer_bottle": {
-    "criteria": {
-      "has_any_ingredient": "2025-12-12 22:41:01 -0600"
     },
     "done": true
   },
@@ -6252,12 +5953,6 @@
     },
     "done": true
   },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2025-12-12 22:40:45 -0600"
-    },
-    "done": true
-  },
   "rats:recipes/misc/rattling_gun": {
     "criteria": {
       "has_iron": "2025-12-12 22:46:21 -0600"
@@ -6267,30 +5962,6 @@
   "fairylights:recipes/fairylights/spider_light": {
     "criteria": {
       "has_iron": "2025-12-12 22:46:21 -0600"
-    },
-    "done": true
-  },
-  "netherexp:nether/overkill": {
-    "criteria": {
-      "overkill": "2025-12-12 22:37:58 -0600"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/archeologist/pirat_cutlass": {
-    "criteria": {
-      "has_input": "2025-12-12 23:00:28 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-12-12 22:40:14 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-12-12 23:00:18 -0600"
     },
     "done": true
   },
@@ -6315,6 +5986,390 @@
   "exposure:recipes/tools/camera": {
     "criteria": {
       "has_iron": "2025-12-12 22:46:21 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/skyris_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:50:28 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/skyris_planks": {
+    "criteria": {
+      "has_log": "2025-12-12 22:50:28 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/skyris_wood": {
+    "criteria": {
+      "has_log": "2025-12-12 22:50:28 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/skyris_furnitures": {
+    "criteria": {
+      "has_wood": "2025-12-12 22:50:28 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/skyris_roofs": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:50:28 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/skyris_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:50:28 -0600"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/misc/source_berry_crate": {
+    "criteria": {
+      "has_sourceberry_bush": "2025-12-12 22:52:34 -0600"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/source_berry_cookie": {
+    "criteria": {
+      "has_sourceberry_bush": "2025-12-12 22:52:34 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/yellow_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2025-12-12 22:52:47 -0600"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-12-12 22:57:33 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-12-12 22:57:55 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/ars_nouveau/sign_post_archwood": {
+    "criteria": {
+      "has_item": "2025-12-12 22:58:19 -0600"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "convenientcurioscontainer:recipes/curios_container": {
+    "criteria": {
+      "has_stone": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/barge": {
+    "criteria": {
+      "has_item": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-12-12 22:58:36 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/skyris_bookshelf": {
+    "criteria": {
+      "has_skyris_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/skyris_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/skyris_fence": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_skyris": {
+    "criteria": {
+      "has_item": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/skyris_crafting_table": {
+    "criteria": {
+      "has_skyris_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/skyris_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/skyris_door": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/skyris_slab": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/skyris_planks_roofs": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/skyris_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/skyris_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/skyris_sign": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/skyris_button": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/skyris_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/skyris_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/rope_skyris_bridge": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:48 -0600"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_wood": "2025-12-12 22:59:58 -0600"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_wood": "2025-12-12 22:59:58 -0600"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-12-12 22:59:58 -0600"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_wood": "2025-12-12 22:59:58 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-12-12 22:59:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-12-12 23:00:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-12-12 23:00:18 -0600"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/archeologist_upgrade": {
+    "criteria": {
+      "has_pick": "2025-12-12 23:00:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-12-12 23:00:18 -0600"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/archeologist/pirat_cutlass": {
+    "criteria": {
+      "has_input": "2025-12-12 23:00:28 -0600"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cockroach_wing_fragment": {
+    "criteria": {
+      "has_cockroach_wing_fragment": "2025-12-12 23:02:42 -0600"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-12-14 16:40:54 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/witch_hazel_roofs": {
+    "criteria": {
+      "has_planks": "2025-12-14 16:43:27 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/witch_hazel_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-12-14 16:43:27 -0600"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/poison_upgrade": {
+    "criteria": {
+      "has_eye": "2025-12-14 16:40:54 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/witch_hazel_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-14 16:43:27 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_planks": {
+    "criteria": {
+      "has_log": "2025-12-14 16:43:27 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-12-14 16:40:54 -0600"
+    },
+    "done": true
+  },
+  "mcwbyg:recipes/witch_hazel_furnitures": {
+    "criteria": {
+      "has_wood": "2025-12-14 16:43:27 -0600"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_wood": {
+    "criteria": {
+      "has_log": "2025-12-14 16:43:27 -0600"
     },
     "done": true
   },
